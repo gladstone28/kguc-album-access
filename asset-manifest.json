@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kguc-album-access/static/css/main.5060a3df.css",
+    "main.js": "/kguc-album-access/static/js/main.03938747.js",
+    "index.html": "/kguc-album-access/index.html",
+    "main.5060a3df.css.map": "/kguc-album-access/static/css/main.5060a3df.css.map",
+    "main.03938747.js.map": "/kguc-album-access/static/js/main.03938747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5060a3df.css",
+    "static/js/main.03938747.js"
+  ]
+}
